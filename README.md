@@ -7,7 +7,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 ## Technische Skills
 * **Data Cleaning & ETL:** Power Query & Excel Advanced (data opschonen, transformeren, ontdubbelen en modelleren)
 * **Databases:** SQL 
-* **Datacommando's & Logica:** Basic DAX (Calculated Columns, Measures)
+* **Datacommando's & Logica:** DAX (Calculated Columns, Measures)
 * **Datavisualisatie:** Power BI & Excel (Draaitabellen, Interactieve Dashboards, Slicers)
 * **AI & Data Governance:** Kennis van AI Ethics en verantwoorde data-architectuur.
 
@@ -38,7 +38,7 @@ Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & A
 
 ### 2. Case Data Power BI (Power BI & DAX, ETL)
 
-* **Omschrijving:** Een uitgebreide business case waarin data uit verschillende bronnen is gecombineerd. Hierin heb ik met basic DAX-formules en datamodellering klantspecifieke statistieken en KPI's berekend om bedrijfsprestaties live te monitoren.
+* **Omschrijving:** Een uitgebreide business case waarin data uit verschillende bronnen is gecombineerd. Hierin heb ik met DAX-formules en datamodellering klantspecifieke statistieken en KPI's berekend om bedrijfsprestaties live te monitoren.
 
 <img width="1051" height="590" alt="Screenshot 2026-10-02 112736" src="https://github.com/user-attachments/assets/dda24676-030f-4b11-90f6-25f9ec8d8014" />
 
