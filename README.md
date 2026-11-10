@@ -1,4 +1,4 @@
-# Data Analytics & AI Portfolio
+# Data Analytics & AI Portfolio Hanane E.
 
 
 Welkom op mijn portfolio! Na het succesvol afronden van mijn intensieve Data & Analytics bootcamp, heb ik deze repository ingericht om mijn vaardigheden te demonstreren. Ik ben gespecialiseerd in het opschonen van ruwe data en het omzetten hiervan naar interactieve dashboards en het vervolgens analyseren van deze gegevens om te komen tot waardevolle insights en concrete business recommendations and/or solutions.
