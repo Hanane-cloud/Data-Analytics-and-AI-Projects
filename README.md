@@ -104,7 +104,7 @@ Met mijn achtergrond in **Bedrijfskunde (Management, Economie & Recht)** (gespec
 
 Ik krijg energie van het opschonen van complexe datasets en het vertalen van die cijfers naar heldere, visuele dashboards in Power BI en Excel. Ik ben een proactieve leerder (momenteel bezig met SQL) en sla graag de brug tussen data en de business. Hierin leg ik tevens de focus op AI Ethics, Data Governance en de EU AI Act om dataprojecten compliant, ethisch en verantwoord in te richten.
 
-* **Status:** [Indicatie Banenafspraak] *(Geregistreerd in het Doelgroepregister)*
+* **Status:** Indicatie Banenafspraak *(Geregistreerd in het Doelgroepregister)*
 
 📧 **Interesse in een kennismaking of mijn volledige CV? Neem gerust contact met mij op via een bericht!**
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/hanane-e-9967a766/)
