@@ -107,6 +107,5 @@ Ik krijg energie van het opschonen van complexe datasets en het vertalen van die
 * **Status:** [Indicatie Banenafspraak] *(Geregistreerd in het Doelgroepregister)*
 
 📧 **Interesse in een kennismaking of mijn volledige CV? Neem gerust contact met mij op via een bericht!**
-* 📧 **E-mail:** [ms.elbahri@gmail.com](mailto:ms.elbahri@gmail.com) 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/hanane-e-9967a766/)
 
